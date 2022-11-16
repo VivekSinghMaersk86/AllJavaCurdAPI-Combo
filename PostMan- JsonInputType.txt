@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "abc",
+        "equipmentCategory": "Final",
+        "categoryType": "full",
+        "equipmentType": "Metal",
+        "equipmentName": "bat-ztx-47",
+        "quipmentDescription": "fine",
+        "equipmentNumber": "M1"
+    },
+    {
+        "id": 2,
+        "name": "xyzOrg",
+        "equipmentCategory": "InTest",
+        "categoryType": "semifull",
+        "equipmentType": "wood",
+        "equipmentName": "hdf-kte-48",
+        "quipmentDescription": "ok-ok",
+        "equipmentNumber": "M2"
+    },
+    {
+        "id": 3,
+        "name": "ABCxyzCheck",
+        "equipmentCategory": "Org",
+        "categoryType": "empty",
+        "equipmentType": "semiMetal",
+        "equipmentName": "kjh-xct-49",
+        "quipmentDescription": "Best",
+        "equipmentNumber": "M3"
+    },
+    {
+        "id": 4,
+        "name": "Test123",
+        "equipmentCategory": "preFinal",
+        "categoryType": "full",
+        "equipmentType": "semiWood",
+        "equipmentName": "kjh-opy-76",
+        "quipmentDescription": "Better",
+        "equipmentNumber": "M4"
+    },
+    {
+        "id": 5,
+        "name": "FinalSetxyz",
+        "equipmentCategory": "SemiOrg",
+        "categoryType": "semiEmpty",
+        "equipmentType": "Silver",
+        "equipmentName": "jgf-tpr-s78",
+        "quipmentDescription": "Good",
+        "equipmentNumber": "M5"
+    },
+    {
+        "id": 6,
+        "name": "AbcCheckSet",
+        "equipmentCategory": "vcsvc",
+        "categoryType": "Master",
+        "equipmentType": "Full",
+        "equipmentName": "Box1",
+        "quipmentDescription": "FullShoseBoxOne",
+        "equipmentNumber": "40465"
+    }
+]
+========================================================API URL To Hit=================================================================>
+http://localhost:8080/AllYardList (GET ALL API)
+
+http://localhost:8080/deleteYard/6 (Delete By Id)
+
+http://localhost:8080/yardResponse (POST -Create API)
+
+http://localhost:8080/updateYard/5 (PUT - Update API)
+
+
+    {
+        "id": 5,
+        "name": "FinalSetxyz"
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+

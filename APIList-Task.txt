@@ -1,0 +1,18 @@
+Create Yard Equipment with below fields
+Update yard Equipment
+Delete Yard Equipment
+Get All Yard Equipment
+Get YardEquipment for Specific_Category
+Get YardEquipment for Equipment_Category
+Search Yard Equipment by Equipment_Name
+
+
+Entity Field Given=======================================================> I
+    Private  Int    yardId;
+    private  String YardName ;
+    private  String EquipmentCategory;
+    private  String CategoryType;
+    private  String EquipmentType;
+    private  String EquipmentName;
+    private  String EquipmentDescription;
+    private  String EquipmentNumber;
